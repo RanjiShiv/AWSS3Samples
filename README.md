@@ -1,4 +1,4 @@
-# AWSS3Samples
+# AWS S3 Samples
 
 
 Objective is to:
